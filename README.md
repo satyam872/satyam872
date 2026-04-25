@@ -40,7 +40,7 @@ Passionate about business analytics and data-driven decisions.
 
 - ChatGPT Advanced – Simplilearn  
 - Forward Program – McKinsey.org  
-
+- Generative AI for All - pwskills, microsoft
 ---
 
 ## 🌐 Connect with me  
