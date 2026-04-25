@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;MBA+Aspirant;Finance+%26+Analytics;Python+%7C+SQL+%7C+Excel&center=true&width=500&height=50">
+</p>
 # Hi 👋, I'm Satyam Kumar  
 
 🎯 Data Analyst | MBA Aspirant  
@@ -13,7 +16,12 @@ Passionate about business analytics and data-driven decisions.
 - 🐍 Python  
 - 🗄️ SQL (MySQL)  
 - 📈 Data Analysis & Visualization  
+## 🛠️ Tools  
 
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ---
 
 ## 📊 Projects  
@@ -37,4 +45,10 @@ Passionate about business analytics and data-driven decisions.
 
 ## 🌐 Connect with me  
 
-- LinkedIn: https://www.linkedin.com/in/satyam1947  
+- LinkedIn: https://www.linkedin.com/in/satyam1947
+
+- ## 📈 GitHub Stats  
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam872&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam872&layout=compact&theme=tokyonight)
