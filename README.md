@@ -13,7 +13,8 @@ Passionate about business analytics and data-driven decisions.
 ## 🚀 Skills  
 
 - 📊 Excel, Power BI, Tableau  
-- 🐍 Python  
+- 🐍 Python
+- Machine learning
 - 🗄️ SQL (MySQL)  
 - 📈 Data Analysis & Visualization  
 ## 🛠️ Tools  
@@ -37,7 +38,7 @@ Passionate about business analytics and data-driven decisions.
 ---
 
 ## 📜 Certifications  
-
+- Data Analytics Course - Pw Skills
 - ChatGPT Advanced – Simplilearn  
 - Forward Program – McKinsey.org  
 - Generative AI for All - pwskills, microsoft
